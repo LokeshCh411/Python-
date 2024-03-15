@@ -1,18 +1,17 @@
 # Python Documentation
 
-## Table of Contents
-- [Introduction](#Introduction)
-- [Variables](#Variables)
-- [Data Types](#Data_Types)
-- [Numbers](#Numbers)
-- [Strings](#Strings)
-- [Operators](#Operators)
-- [List](#List)
-- [Tuple](#Tuple)
-- [Set](#Set)
-- [Conditional Statements](#Conditional_Statements)
-- [Looping Statements](#Looping_Statements)
-- [More](#More)
+## Contents of WebPage
+- Introduction
+- Variables
+- Data Types
+- Numbers
+- Strings
+- Operators
+- List
+- Tuple
+- Set
+- Conditional Statements
+- Looping Statements
 
 ## Introduction
 Python is a popular programming language created by Guido van Rossum and released in 1991. It is used for various purposes including web development, software development, mathematics, and system scripting.
